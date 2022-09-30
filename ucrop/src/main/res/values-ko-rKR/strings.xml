@@ -10,5 +10,5 @@
     <string name="ucrop_rotate">회전</string>
     <string name="ucrop_scale">비율</string>
     <string name="ucrop_crop">크기조정</string>
-    <string name="ucrop_not_crop">지원하지 아는 유형입니다</string>
+    <string name="ucrop_not_crop">지원하지 않는  유형입니다</string>
 </resources>
