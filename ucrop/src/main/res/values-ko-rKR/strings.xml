@@ -1,8 +1,14 @@
 <resources>
+  <string name="ucrop_gif_tag">gif</string>
+    <string name="ucrop_label_original">오리지널</string>
+    <string name="ucrop_label_edit_photo">편집</string>
 
-    <string name="ucrop_label_edit_photo">사진 편집</string>
-    <string name="ucrop_label_original">원본</string>
-    <string name="ucrop_menu_crop">확인</string>
-    <string name="ucrop_gif_tag">움직이</string>
-    <string name="ucrop_not_crop">지원되지 않는 잘라내기 유형</string>
+    <string name="ucrop_menu_crop">크기조정</string>
+
+    <string name="ucrop_error_input_data_is_absent" translatable="false">지원하지 않습니다</string>
+    <string name="ucrop_mutate_exception_hint" translatable="false">지원하지 않습니다</string>
+    <string name="ucrop_rotate">회전</string>
+    <string name="ucrop_scale">비율</string>
+    <string name="ucrop_crop">크기조정</string>
+    <string name="ucrop_not_crop">지원하지 아는 유형입니다</string>
 </resources>
