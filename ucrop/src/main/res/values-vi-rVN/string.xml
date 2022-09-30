@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    
     <string name="ucrop_gif_tag">gif</string>
-    <string name="ucrop_label_edit_photo">Editar foto</string>
-    <string name="ucrop_label_original">Original</string>
-    <string name="ucrop_menu_crop">Recortar</string>
-    <string name="ucrop_not_crop">Kiểu cắt chưa sắp xếp</string>
+    <string name="ucrop_label_original">Nguyên gốc</string>
+    <string name="ucrop_label_edit_photo">Chỉnh sửa ảnh</string>
+
+    <string name="ucrop_menu_crop">Cắt</string>
+
+    <string name="ucrop_error_input_data_is_absent" translatable="false">Chưa xác định đường dẫn thư mục</string>
+    <string name="ucrop_mutate_exception_hint" translatable="false">Thiết bị không hỗ trợ</string>
+    <string name="ucrop_rotate">Xoay</string>
+    <string name="ucrop_scale">Thu phóng</string>
+    <string name="ucrop_crop">Cắt</string>
+    <string name="ucrop_not_crop">Không hỗ trợ kiểu cắt này</string>
 </resources>
